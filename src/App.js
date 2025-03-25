@@ -131,7 +131,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<ShoppingCart />} />
+        <Route path="/" element={<Shoppingcart />} />
         <Route path="/cart-summary" element={<CartSummary />} />
       </Routes>
     </Router>
@@ -139,3 +139,41 @@ function App() {
 }
 // Jabadast Project
 export default App;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//find error134 ShoppingCart
